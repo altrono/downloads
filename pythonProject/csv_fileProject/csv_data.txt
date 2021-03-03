@@ -1,0 +1,6 @@
+name,age,university,degree
+grace,6,graceUniv,computer since
+frank,55,Uct,commerce
+heri,22,unikin,law
+giyani,88,uj,accounting
+mabunda,21,up,health science

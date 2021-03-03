@@ -1,0 +1,246 @@
+Denintion : AI is the area of computer science that studies
+**********  how machines can perform tasks that would normally
+            require a sentient agent.
+
+            A more skeptical definition might be more narrow,
+            for example: "the area of computer science that studies how
+            machines can closely imitate human intelligence."
+
+Branches of AI
+**************
+
+It is important to understand the various fields of study within AI so
+that we can choose the right framework to solve a given real-world problem.
+There are several ways to classify the different branches of AI:
+
+    * Supervised learning vs. unsupervised learning vs. reinforcement learning
+    * Artificial general intelligence vs. narrow intelligence
+    * By human function:
+        * Machine vision
+        * Machine learning
+        * Natural language processing
+        * Natural language generation
+
+Following, we present a common classification:
+
+       * Machine learning and pattern recognition: This is perhaps the most popular form
+         of AI out there. We design and develop software that can learn from data.
+         Based on these learning models, we perform predictions on unknown data.
+         One of the main constraints here is that these programs are limited
+         to the power of the data.
+         If the dataset is small, then the learning models would be limited as well.
+
+         When a system receives a previously unseen data point, it uses the patterns
+         from previously seen data (the training data) to make inferences on this new data point.
+         For example, in a facial recognition system, the software will try to match the pattern
+         of eyes, nose, lips, eyebrows, and so on in order to find a face in the existing
+         database of users.
+
+       * Logic-based AI: Mathematical logic is used to execute computer programs in logic-based AI.
+         A program written in logic-based AI is basically a set of statements in logical form
+         that expresses facts and rules about a problem domain. This is used extensively
+         in pattern matching, language parsing, semantic analysis, and so on.
+
+       * Search: Search techniques are used extensively in AI programs. These programs examine
+         many possibilities and then pick the most optimal path. For example, this is used a
+         lot in strategy games such as chess, networking, resource allocation,
+         scheduling, and so on.
+
+       * Knowledge representation: The facts about the world around us need to be represented in some
+         way for a system to make sense of them. The languages of mathematical logic are frequently
+         used here. If knowledge is represented efficiently, systems can be smarter and more intelligent.
+         Ontology is a closely related field of study that deals with the kinds of objects that exist.
+
+         It is a formal definition of the properties and relationships of the entities that exist in a
+         domain. This is usually done with a taxonomy or a hierarchical structure of some kind.
+
+        * Planning: This field deals with optimal planning that gives us maximum returns with minimal costs.
+          These software programs start with facts about the situation and a statement of a goal.
+          These programs are also aware of the facts of the world, so that they know what the rules are.
+          From this information, they generate the most optimal plan to achieve the goal.
+
+        * Heuristics: A heuristic is a technique used to solve a given problem that's practical and
+          useful in solving the problem in the short term, but not guaranteed to be optimal.
+          This is more like an educated guess on what approach we should take to solve a problem.
+          In AI, we frequently encounter situations where we cannot check every single possibility
+          to pick the best option. Thus, we need to use heuristics to achieve the goal.
+          They are used extensively in AI in fields such as robotics, search engines, and so on.
+
+
+       * Genetic programming: Genetic programming is a way to get programs to solve a task by mating
+         programs and selecting the fittest. The programs are encoded as a set of genes,
+         using an algorithm to get a program that can perform the given task well.
+
+
+
+
+
+                   The five tribes of machine learning
+                   ************************************
+
+       * Symbolists – Symbolists use the concept of induction or inverse deduction as their main tool.
+         When using induction, instead of starting with a premise and looking for conclusions, inverse
+         deduction starts with a set of premises and conclusions and works backwards to fill in the
+         missing pieces.
+
+         An example of deduction:
+            Socrates is human + All humans are mortal = What can be deduced? (Socrates is mortal)
+            An example of induction:
+            Socrates is human + ?? = Socrates is mortal (Humans are mortal?)
+
+      * Connectionists – Connectionists use the brain, or at least our very crude understanding
+        of the brain, as their primary tool – mainly neural networks. Neural networks are a type of
+        algorithm, modeled loosely after the brain, which are designed to recognize patterns.
+        They can recognize numerical patterns contained in vectors. In order to use them, all inputs,
+        be they images, sound, text, or time series need to be translated into these numerical vectors.
+        It is hard to open a magazine or a news site and not read about examples of "deep learning." Deep learning is a specialized type of a neural network.
+
+      * Evolutionaries – Evolutionaries focus on using the concepts of evolution, natural selection,
+        genomes, and DNA mutation and applying them to data processing. Evolutionary algorithms will
+        constantly mutate, evolve, and adapt to unknown conditions and processes.
+
+      * Bayesians – Bayesians focus on handling uncertainty using probabilistic inference.
+        Vision learning and spam filtering are some of the problems tackled by the Bayesian approach.
+        Typically, Bayesian models will take a hypothesis and apply a type of "a priori" reasoning,
+        assuming that some outcomes will be more likely. They then update a hypothesis
+        as they see more data.
+
+      * Analogizers – Analogizers focus on techniques that find similarities between examples.
+        The most famous analogizer model is the k-nearest neighbor algorithm.
+
+
+
+
+
+        Defining intelligence using the Turing test
+        ********************************************
+        The legendary computer scientist and mathematician, Alan Turing, proposed the Turing test to
+        provide a definition of intelligence. It is a test to see if a computer can learn to mimic human
+        behavior. He defined intelligent behavior as the ability to achieve human-level intelligence
+        during a conversation. This performance should be enough to trick an interrogator into thinking
+        that the answers are coming from a human.
+
+        As you can imagine, this is quite a difficult task for the respondent machine. There are a lot of
+        things going on during a conversation. At the very minimum, the machine needs to be well
+        versed with the following things:
+
+                    * Natural language processing: The machine needs this to communicate with the
+        interrogator. The machine needs to parse the sentence, extract the context, and give an appropriate answer.
+
+                    * Knowledge representation: The machine needs to store the information provided
+        before the interrogation. It also needs to keep track of the information being provided during
+        the conversation so that it can respond appropriately if it comes up again.
+
+                    * Reasoning: It's important for the machine to understand how to interpret the
+        information that gets stored. Humans tend to do this automatically in order to draw conclusions in real time.
+
+                    * Machine learning: This is needed so that the machine can adapt to new conditions in
+        real time. The machine needs to analyze and detect patterns so that it can draw inferences.
+
+
+Within computer science, there is a field of study called Cognitive Modeling that deals with simulating
+the human thinking process. It tries to understand how humans solve problems. It takes the mental processes
+that go into this problem-solving process and turns it into a software model. This model can then be used
+to simulate human behavior.
+
+Cognitive modeling is used in a variety of AI applications such as deep learning, expert systems, natural
+language processing, robotics, and so on.
+
+
+
+            Building rational agents
+            ************************
+    A lot of research in AI is focused on building rational agents.
+    What exactly is a rational agent? Before that, let us define the word rationality within the
+    context of AI. Rationality refers to observing a set of rules and following their logical
+    implications in order to achieve a desirable outcome. This needs to be performed in such a way
+    that there is maximum benefit to the entity performing the action. An agent, therefore, is said
+    to act rationally if, given a set of rules, it takes actions to achieve its goals. It just
+    perceives and acts according to the information that's available. This system is used a lot in AI
+    to design robots when they are sent to navigate unknown terrains.
+
+
+            Building an intelligent agent
+            *****************************
+    There are many ways to impart intelligence to an agent. The most commonly used techniques include
+    machine learning, stored knowledge, rules, and so on. In this section, we will focus on machine learning.
+     In this method, the way we impart intelligence to an agent is through data and training.
+
+   With machine learning, sometimes we want to program our machines to use labeled data to solve a given problem.
+   By going through the data and the associated labels, the machine learns how to extract patterns and relationships.
+
+   In the preceding example, the intelligent agent depends on the learning model to run the inference engine.
+   Once the sensor perceives the input, it sends it to the feature extraction block. Once the relevant features are extracted,
+   the trained inference engine performs a prediction based on the learning model.
+   This learning model is built using machine learning. The inference engine then takes a decision and
+   sends it to the actuator, which then takes the required action in the real world.
+
+   There are many applications of machine learning that exist today. It is used in image recognition, robotics, speech recognition,
+   predicting stock market behavior, and so on. In order to understand machine learning and build a complete solution, you will have to
+   be familiar with many techniques from different fields such as pattern recognition, artificial neural networks, data mining, statistics,
+   and so on.
+
+
+       Types of models:
+       ****************
+   There are two types of models in the AI world: Analytical models and learned models.
+   Before we had machines that could compute, people used to rely on analytical models.
+
+   * Analytical models were derived using a mathematical formulation, which is basically a sequence of steps
+    followed to arrive at a final equation. The problem with this approach is that it was based on human
+    judgment. Hence, these models were simplistic and often inaccurate, with just a few parameters.
+    Think of how Newton and other scientists of old made calculations before they had computers.
+    Such models often involved prolonged derivations and long periods of trial and error before a working
+    formula was arrived at.
+
+   * We then entered the world of computers. These computers were good at analyzing data. So, people
+   increasingly started using learned models. These models are obtained through the process of training.
+   During training, the machines look at many examples of inputs and outputs to arrive at the equation.
+   These learned models are usually complex and accurate, with thousands of parameters. This gives rise to
+   a very complex mathematical equation that governs the data that can assist in making predictions.
+
+
+Machine learning allows us to obtain these learned models that can be used in an inference engine. One of the best things
+about this is the fact that we don't need to derive the underlying mathematical formula. You don't need to know complex mathematics,
+because the machine derives the formula based on data. All we need to do is create the list of inputs and the corresponding outputs.
+The learned model that we get is just the relationship between labeled inputs and the desired outputs.
+
+
+        Installing packages
+        *******************
+
+    NumPy: http://docs.scipy.org/doc/numpy-1.10.1/user/install.html
+    SciPy: http://www.scipy.org/install.html
+    scikit-learn: http://scikit-learn.org/stable/install.html
+    matplotlib: http://matplotlib.org/1.4.2/users/installing.html
+    conda activate conda-scikit
+
+
+        Loading data
+        ************
+   In order to build a learning model, we need data that's representative of the world. Now that we have installed the necessary Python packages,
+   let's see how to use the packages to interact with data. Enter the Python command prompt by typing the following command:
+
+   $ python3
+   >>> from sklearn import datasets
+
+   Let's load the house prices dataset:
+
+   >>> house_prices = datasets.load_boston()
+
+   Print the data:
+
+   >>> print(house_prices.data)
+
+   There are also image datasets available in the scikit-learn package. Each image is of shape 8×8. Let's load it:
+
+    >>> digits = datasets.load_digits()
+
+    Print the fifth image:
+
+    >>> print(digits.images[4])
+
+  
+
+
+

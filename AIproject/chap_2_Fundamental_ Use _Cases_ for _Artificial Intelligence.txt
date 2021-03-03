@@ -1,0 +1,41 @@
+This chapter will discuss:
+
+    * Some representative AI use cases
+    * The jobs that will take the longest to replace by automation
+    * The industries that will be most impacted by AI
+
+
+            Representative AI use cases
+            ****************************
+Artificial Intelligence, cognitive computing, machine learning, and deep learning are only some of the
+disruptive technologies that are enabling rapid change today. These technologies can be adopted quicker
+because of advances in cloud computing, Internet of Things (IoT), and edge computing.
+
+Let's begin to look at some contemporary applications of AI:
+
+            1 Digital personal assistants and chatbots
+            ------------------------------------------
+   * Google Assistant: Google Assistant was launched in 2016 and is one of the most advanced chatbots
+                       available. It can be found in a variety of appliances such as telephones, headphones, speakers, washers,
+                       TVs, and refrigerators.
+
+   * Apple Siri: Siri can accept user voice commands and a natural language user interface to answer questions,
+     make suggestions, and perform actions by parsing these voice commands and delegating these requests to a set of internet services.
+     The software can adapt to users' individual language usage, their searches, and preferences.
+     The more it is used the more it learns and the better it gets.
+
+   * Microsoft Cortana: Cortana is another digital virtual assistant, designed and created by Microsoft. Cortana can set reminders and alarms,
+     recognize natural voice commands, and it answers questions using information.
+
+All these assistants will allow you to perform all or at least most of these tasks:
+
+    - Control devices in your home
+    - Play music and display videos on command
+    - Set timers and reminders
+    - Make appointments
+    - Send text and email messages
+    - Make phone calls
+    - Open applications
+    - Read notifications
+    - Perform translations
+    - Order from e-commerce sites
